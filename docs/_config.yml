@@ -145,7 +145,7 @@ footer:
       icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/"
     - label: "Privacy Policy"
-      url: "/terms/"
+      url: "/whoopsie/terms/"
 # Reading Files
 include:
   - .htaccess
