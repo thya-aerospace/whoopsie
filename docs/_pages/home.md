@@ -6,7 +6,7 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/robin-glauser-aSvBypuXGkc-unsplash
+  overlay_image: /assets/images/robin-glauser-aSvBypuXGkc-unsplash.jpg
   # actions:
   #   - label: "Learn More"
   #     url: "/terms/"
@@ -24,16 +24,16 @@ feature_howto:
     btn_label: "Getting Started"
     btn_class: "btn--primary"
 
-# feature_buttons:
-#   - title: "Statistics"
-#   - btn_label: "30M Messages"
-#     btn_class: "btn--inverse"
-#   - btn_label: "100 Countries"
-#     btn_class: "btn--inverse"
-#   - btn_label: "3000 Users"
-#     btn_class: "btn--inverse"
-#   - btn_label: "3000 Users"
-#     btn_class: "btn--inverse"
+feature_buttons:
+  - title: "Statistics"
+  - btn_label: "30M Messages"
+    btn_class: "btn--inverse"
+  - btn_label: "100 Countries"
+    btn_class: "btn--inverse"
+  - btn_label: "3000 Users"
+    btn_class: "btn--inverse"
+  - btn_label: "3000 Users"
+    btn_class: "btn--inverse"
 
 
 feature_product:
@@ -59,16 +59,16 @@ feature_product:
     btn_label: "TBD"
     btn_class: "btn--primary"
 
-# feature_company:
-#   # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#     alt: "placeholder image 2"
-#     title: "Companies that use it"
-#     url: "#test-link" 
+feature_company:
+  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Companies that use it"
+    url: "#test-link" 
  
 ---
 
 {% include feature_row id="feature_howto" type="left" %}
-{% include feature_row_button id="feature_buttons" type="center"%}
-{% include feature_row id="feature_product" %}
+<!-- {% include feature_row_button id="feature_buttons" type="center"%} -->
+<!-- {% include feature_row id="feature_product" %} -->
 <!-- {% include feature_row id="feature_company" type="right" %} -->
-{% include client-slider.html id="feature_company" %}
+<!-- {% include client-slider.html id="feature_company" %} -->
