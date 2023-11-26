@@ -19,12 +19,17 @@ feature_howto:
   - image_path: /assets/images/whoopsie_architecture.png
     alt: "Whoopsie architecture diagram"
     title: "Build and host your own service messaging infrastructure"
-    excerpt: 'MIT licensed, Integrated serializers, MongoDB integration, Prometheus monitoring, Grafana GUI dashboard, TLS enabled, docker containered in case desired...
-        <pre>
-        echo "whoopsie"
-        ls -ali
-        cat hello.txt
-        </pre>'
+    excerpt: '
+        <pre>echo "whoopsie"</pre>
+        <pre>echo "whoopsie"</pre>
+        <pre>echo "whoopsie"</pre>'
+        
+    # excerpt: 'MIT licensed, Integrated serializers, MongoDB integration, Prometheus monitoring, Grafana GUI dashboard, TLS enabled, docker containered in case desired...
+    #     <pre>
+    #     echo "whoopsie"
+    #     ls -ali
+    #     cat hello.txt
+    #     </pre>'
     url: "https://github.com/thya-aerospace/whoopsie/wiki" #"#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
