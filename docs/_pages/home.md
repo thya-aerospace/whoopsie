@@ -16,11 +16,11 @@ excerpt: "A simple MQTT-based service status messaging protocol with automatic s
 #   - excerpt: 'Stats'
 
 feature_howto:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /assets/images/whoopsie_architecture.png
     alt: "Architecture diagram"
     title: "Build your own service messaging infrastrucutre"
     excerpt: 'Setup your own simple Whoopsie server, connect your clients'
-    url: "#test-link"
+    url: "#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
 
@@ -37,12 +37,12 @@ feature_buttons:
 
 
 feature_product:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "what"
-    excerpt: "That thing here"
-    url: "#test-link"
+  - image_path: assets/images/whoopsie_architecture.png
+    image_caption: "Whoopsie Architecture"
+    alt: "Whoopsie Architecture"
+    title: "whWhoopsie Architecture"
+    excerpt: "Simple architecture of a Whoopsie client-server structure"
+    url: "#n/a"
     btn_label: "TBD"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
