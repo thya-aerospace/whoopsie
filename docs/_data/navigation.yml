@@ -1,18 +1,18 @@
 # main links
 main:
   - title: "Getting Started"
-    url: https://en.wikipedia.org/wiki/Documentation
+    url: https://github.com/thya-aerospace/whoopsie/wiki
   - title: "Documentation"
-    url: https://en.wikipedia.org/wiki/Documentation
-  - title: "Hardware"
-    url: /hardware/
-  - title: "Enterprise"
-    url: /enterprise/
-  - title: "Login"
-    url: /login/
+    url: https://github.com/thya-aerospace/whoopsie/wiki
+  - title: "1 page Whoopsie Standard"
+    url: /standard/
+  #- title: "Enterprise"
+  #  url: /enterprise/
+  # - title: "Login"
+  #  url: /login/
   # - title: "Hardware"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Sitemap"
+  #  url: /sitemap/
