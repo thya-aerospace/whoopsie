@@ -6,33 +6,34 @@ date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-2.jpg
+  overlay_image: /assets/images/robin-glauser-aSvBypuXGkc-unsplash
   # actions:
   #   - label: "Learn More"
   #     url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "We are a global collaborative ecosystem that offers open-source satellite and terrestrial communication solutions and use case specific services."
+excerpt: "A simple MQTT-based service status messaging protocol with automatic serialization"
 # intro: 
 #   - excerpt: 'Stats'
 
 feature_howto:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "Architecture diagram"
-    title: "What is exactly and how to kickstart"
-    excerpt: 'Here we explain what exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly exactly'
+    title: "Build your own service messaging infrastrucutre"
+    excerpt: 'Setup your own simple Whoopsie server, connect your clients'
     url: "#test-link"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
-feature_buttons:
-  - title: "Statistics"
-  - btn_label: "30M Messages"
-    btn_class: "btn--inverse"
-  - btn_label: "100 Countries"
-    btn_class: "btn--inverse"
-  - btn_label: "3000 Users"
-    btn_class: "btn--inverse"
-  - btn_label: "3000 Users"
-    btn_class: "btn--inverse"
+
+# feature_buttons:
+#   - title: "Statistics"
+#   - btn_label: "30M Messages"
+#     btn_class: "btn--inverse"
+#   - btn_label: "100 Countries"
+#     btn_class: "btn--inverse"
+#   - btn_label: "3000 Users"
+#     btn_class: "btn--inverse"
+#   - btn_label: "3000 Users"
+#     btn_class: "btn--inverse"
 
 
 feature_product:
@@ -58,11 +59,11 @@ feature_product:
     btn_label: "TBD"
     btn_class: "btn--primary"
 
-feature_company:
-  # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Companies that use it"
-    url: "#test-link" 
+# feature_company:
+#   # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+#     alt: "placeholder image 2"
+#     title: "Companies that use it"
+#     url: "#test-link" 
  
 ---
 
