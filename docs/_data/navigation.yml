@@ -2,8 +2,8 @@
 main:
   - title: "getting started"
     url: https://github.com/thya-aerospace/whoopsie/wiki
-  - title: "whoopsie standard"
-    url: /standard/
+  - title: "whoopsie protocol"
+    url: /protocol/
   - title: "documentation"
     url: https://github.com/thya-aerospace/whoopsie/wiki
   - title: "github"
