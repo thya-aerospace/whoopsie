@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air"#"default" # "air", "aqua", "contrast", "dark", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open Receiver"
+title                    : "Whoopsie"
 title_separator          : "-"
 subtitle                 : "subtitle"# site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Whoopsie"
+description              : "Whoopsie landing page"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -36,7 +36,7 @@ comments:
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    # https://developers.facebook.com/docs/plugins/comments
+     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "thya aerospace"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "n/a"
+  location         : "n/a"
   email            :
   links:
     - label: "Email"
@@ -132,20 +132,20 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
-      url: "https://linkedin.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    #- label: "Linkedin"
+    #  icon: "fas fa-fw fa-linkedin-in"
+    #  url: "https://linkedin.com"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://youtube.com/"
-    - label: "Privacy Policy"
-      url: "/terms/"
+      url: "https://github.com/thya-aerospace/whoopsie"
+    #- label: "Youtube"
+    #  icon: "fab fa-fw fa-youtube"
+    #  url: "https://youtube.com/"
+    #- label: "Privacy Policy"
+    #  url: "/terms/"
 # Reading Files
 include:
   - .htaccess
