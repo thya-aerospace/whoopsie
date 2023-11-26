@@ -2,24 +2,29 @@
 title: "Whoopsie"
 layout: splash
 permalink: /
-date: 2016-03-23T11:48:41-04:00
+date: 2023-10-23T10:53:40-06:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.7"
   overlay_image: /assets/images/robin-glauser-aSvBypuXGkc-unsplash.jpg
   # actions:
   #   - label: "Learn More"
   #     url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "A simple MQTT-based service status messaging protocol with automatic serialization"
+excerpt: "A simple and scalable MQTT-based service status messaging protocol with integrated serialization"
 # intro: 
 #   - excerpt: 'Stats'
 
 feature_howto:
   - image_path: /assets/images/whoopsie_architecture.png
-    alt: "Architecture diagram"
-    title: "Build your own service messaging infrastrucutre"
-    excerpt: 'Setup your own simple Whoopsie server, connect your clients'
+    alt: "Whoopsie architecture diagram"
+    title: "Build and host your own service messaging infrastructure"
+    excerpt: '
+      <ul style=“list-style-type:square”>
+        <li>First Item</li>
+        <li>Second Item</li>
+        <li>Third Item</li>
+      </ul>'
     url: "#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
