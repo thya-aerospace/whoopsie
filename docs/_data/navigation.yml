@@ -1,0 +1,18 @@
+# main links
+main:
+  - title: "Getting Started"
+    url: https://en.wikipedia.org/wiki/Documentation
+  - title: "Documentation"
+    url: https://en.wikipedia.org/wiki/Documentation
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Enterprise"
+    url: /enterprise/
+  - title: "Login"
+    url: /login/
+  # - title: "Hardware"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/

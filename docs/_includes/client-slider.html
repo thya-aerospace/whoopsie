@@ -1,0 +1,11 @@
+{% if site.data.settings.client-slider-items %}
+<div class="feature__wrapper">
+    <div class="archive__item-body">
+        <h2 class="archive__item-title">Our Clients</h2>
+        {% for slider-item in site.data.settings.client-slider-items %}
+        <a href="{{ slider-item.url }}"><img class="align-center" src="{{ site.baseurl }}/{{ slider-item.logo }}" alt="client-logo"></a>
+        {% endfor %}
+    </div>
+</div>
+
+{% endif %}
