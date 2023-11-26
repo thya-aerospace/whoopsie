@@ -1,12 +1,14 @@
 # main links
 main:
-  - title: "Getting Started"
+  - title: "getting started"
     url: https://github.com/thya-aerospace/whoopsie/wiki
-  - title: "Whoopsie Standard"
+  - title: "whoopsie standard"
     url: /standard/
-  - title: "Documentation"
+  - title: "documentation"
     url: https://github.com/thya-aerospace/whoopsie/wiki
-  - title: "Github"
+  - title: "github"
+    url: https://github.com/thya-aerospace/whoopsie/
+  - title: "pip"
     url: https://github.com/thya-aerospace/whoopsie/
   #- title: "Enterprise"
   #  url: /enterprise/
