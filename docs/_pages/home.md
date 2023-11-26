@@ -20,7 +20,7 @@ feature_howto:
     alt: "Whoopsie architecture diagram"
     title: "Build and host your own service messaging infrastructure"
     excerpt: 'MIT licensed, Integrated serializers, MongoDB integration, Prometheus monitoring, Grafana GUI dashboard, TLS enabled, docker containered in case desired...'
-    url: "#TBD"
+    url: "https://github.com/thya-aerospace/whoopsie/wiki" #"#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
 
@@ -41,7 +41,15 @@ feature_product:
     image_caption: "Whoopsie Architecture"
     alt: "Whoopsie Architecture"
     title: "whWhoopsie Architecture"
-    excerpt: "Simple architecture of a Whoopsie client-server structure"
+    excerpt: "<pre>
+.post-title {
+  margin: 0 0 5px;
+  font-weight: bold;
+  font-size: 38px;
+  line-height: 1.2;
+  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
+}
+</pre>"
     url: "#n/a"
     btn_label: "TBD"
     btn_class: "btn--primary"
