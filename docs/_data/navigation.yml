@@ -3,7 +3,7 @@ main:
   - title: "getting started"
     url: /getting-started/
   - title: "whoopsie protocol"
-    url: /protocol/
+    url: /whoopsie-protocol/
   - title: "documentation"
     url: /documentation/
   - title: "github"

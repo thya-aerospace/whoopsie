@@ -7,6 +7,8 @@ toc: true
 share: false
 ---
 
+In case you want to test whoopsie quickly, please refere to the [Getting Started](/whoopsie/getting-started/)
+
 # Overview
 TODO: Elaborate overall concept
 
