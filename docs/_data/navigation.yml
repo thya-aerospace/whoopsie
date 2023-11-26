@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "getting started"
-    url: https://github.com/thya-aerospace/whoopsie/wiki
+    url: /getting-started/
   - title: "whoopsie protocol"
     url: /protocol/
   - title: "documentation"
-    url: https://github.com/thya-aerospace/whoopsie/wiki
+    url: /documentation/
   - title: "github"
     url: https://github.com/thya-aerospace/whoopsie/
   - title: "pypip"
