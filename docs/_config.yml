@@ -212,38 +212,15 @@ sass:
 
 # Outputting
 # permalink: /
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:categories/:title/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 permalink:  /404/
-# permalink:  /archive-layout-with-content/
-# permalink:  /category-archive-grid/
-# permalink:  /category-archive/
-# permalink:  /collection-archive-grid.html/
-# permalink:  /collection-archive.html/
-# permalink:  /edge-case-grid/
-# permalink:  /edge-case/
 permalink:  /configuration/
-# permalink:  /markup-grid/
-# permalink:  /markup/
-# permalink:  /page-a/
-# permalink:  /page-archive-grid.html/
-# permalink:  /page-archive.html/
-# permalink:  /page-b/
-# permalink:  /portfolio-archive/
-# permalink:  /post-archive-feature-rows.html/
-# permalink:  /recipes-archive/
-# permalink:  /sample-page/
-# permalink:  /search/
+permalink:  /getting-started/
 permalink:  /sitemap/
-
-# permalink:  /tag-archive-grid/
-# permalink:  /tag-archive/
 permalink:  /terms/
-# permalink:  /year-archive-grid/
-# permalink:  /year-archive/
-
 
 
 # Plugins (previously gems:)

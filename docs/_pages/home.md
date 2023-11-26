@@ -2,7 +2,8 @@
 title: "Whoopsie"
 layout: splash
 permalink: /
-date: 2023-10-23T10:53:40-06:00
+share: false
+# date: 2023-10-23T10:53:40-06:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.3"
@@ -23,18 +24,6 @@ feature_howto:
     url: "https://github.com/thya-aerospace/whoopsie/wiki" #"#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
-
-# feature_buttons:
-#   - title: "Statistics"
-#   - btn_label: "30M Messages"
-#     btn_class: "btn--inverse"
-#   - btn_label: "100 Countries"
-#     btn_class: "btn--inverse"
-#   - btn_label: "3000 Users"
-#     btn_class: "btn--inverse"
-#   - btn_label: "3000 Users"
-#     btn_class: "btn--inverse"
-
 
 feature_product:
   - image_path: assets/images/pdf_prtot_snipped.PNG
