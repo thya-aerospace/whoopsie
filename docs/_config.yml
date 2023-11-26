@@ -224,25 +224,25 @@ permalink:  /404/
 # permalink:  /collection-archive.html/
 # permalink:  /edge-case-grid/
 # permalink:  /edge-case/
-# permalink:  /lorem-ipsum/
-permalink:  /markup-grid/
-permalink:  /markup/
+permalink:  /configuration/
+# permalink:  /markup-grid/
+# permalink:  /markup/
 # permalink:  /page-a/
 # permalink:  /page-archive-grid.html/
-permalink:  /page-archive.html/
+# permalink:  /page-archive.html/
 # permalink:  /page-b/
-permalink:  /portfolio-archive/
+# permalink:  /portfolio-archive/
 # permalink:  /post-archive-feature-rows.html/
-permalink:  /recipes-archive/
-permalink:  /sample-page/
-permalink:  /search/
+# permalink:  /recipes-archive/
+# permalink:  /sample-page/
+# permalink:  /search/
 permalink:  /sitemap/
 
 # permalink:  /tag-archive-grid/
 # permalink:  /tag-archive/
 permalink:  /terms/
-permalink:  /year-archive-grid/
-permalink:  /year-archive/
+# permalink:  /year-archive-grid/
+# permalink:  /year-archive/
 
 
 
