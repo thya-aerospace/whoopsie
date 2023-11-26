@@ -20,9 +20,9 @@ feature_howto:
     alt: "Whoopsie architecture diagram"
     title: "Build and host your own service messaging infrastructure"
     excerpt: '
-      <ul style=“list-style-type:square”>
-        <li>First Item</li>
-        <li>Second Item</li>
+      <ul style=“list-style-type:square”>/n
+        <li>First Item</li>\n
+        <li>Second Item</li><br>
         <li>Third Item</li>
       </ul>'
     url: "#TBD"
