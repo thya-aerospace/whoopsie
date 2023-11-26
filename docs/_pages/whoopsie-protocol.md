@@ -7,5 +7,5 @@ share: false
 ---
 
 # Overview
-TODO: Elaborate overall concept
+
 
