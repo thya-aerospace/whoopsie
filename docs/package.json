@@ -1,23 +1,23 @@
 {
-  "name": "minimal-mistakes",
+  "name": "whoopsie-page",
   "private": true,
   "version": "4.24.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "description": "Whoopsie Landing Page.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git@github.com:thya-aerospace/whoopsie.git"
   },
   "keywords": [
     "jekyll",
     "theme",
     "minimal"
   ],
-  "author": "Michael Rose",
+  "author": "Thya Aerospace",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
+    "url": "https://github.com/thya-aerospace/whoopsie/issues"
   },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://thya-aerospace.github.io/whoopsie/",
   "engines": {
     "node": ">= 0.10.0"
   },
