@@ -12,7 +12,7 @@ header:
   #   - label: "Learn More"
   #     url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "A simple and scalable MQTT-based service status messaging protocol with integrated serialization"
+excerpt: "A simple and scalable MQTT-based service status messaging protocol with integrated serialization for Cpp and Python"
 # intro: 
 #   - excerpt: 'Stats'
 
@@ -30,7 +30,7 @@ feature_product:
     image_caption: "Whoopsie Protocol"
     alt: "Whoopsie Protocol"
     title: "Whoopsie Protocol"
-    url: "#test-link"
+    url: "/whoopsie-protocol/"
     excerpt: "short explanation of the standard here..."
     # btn_label: "TBD"
     # btn_class: "btn--primary"
