@@ -37,26 +37,14 @@ feature_howto:
 
 
 feature_product:
-  - image_path: assets/images/whoopsie_architecture.png
-    image_caption: "Whoopsie Architecture"
-    alt: "Whoopsie Architecture"
-    title: "Whoopsie Architecture"
-    excerpt: "
-        * List item one 
-          * List item one 
-              * List item one
-              * List item two
-              * List item three
-              * List item four
-          * List item two
-          * List item three
-          * List item four
-        * List item two
-        * List item three
-        * List item four"
-    url: "#n/a"
-    btn_label: "TBD"
-    btn_class: "btn--primary"
+  - image_path: assets/images/pdf_prtot_snipped.png
+    image_caption: "Whoopsie Protocol"
+    alt: "Whoopsie Protocol"
+    title: "Whoopsie Protocol"
+    url: "#test-link"
+    excerpt: "short explanation of the standard here..."
+    # btn_label: "TBD"
+    # btn_class: "btn--primary"
   # - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
   #   alt: "placeholder image 2"
   #   title: "what"
