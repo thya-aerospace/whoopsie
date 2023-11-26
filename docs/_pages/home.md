@@ -40,16 +40,20 @@ feature_product:
   - image_path: assets/images/whoopsie_architecture.png
     image_caption: "Whoopsie Architecture"
     alt: "Whoopsie Architecture"
-    title: "whWhoopsie Architecture"
-    excerpt: "<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>"
+    title: "Whoopsie Architecture"
+    excerpt: "
+        * List item one 
+          * List item one 
+              * List item one
+              * List item two
+              * List item three
+              * List item four
+          * List item two
+          * List item three
+          * List item four
+        * List item two
+        * List item three
+        * List item four"
     url: "#n/a"
     btn_label: "TBD"
     btn_class: "btn--primary"
@@ -77,6 +81,6 @@ feature_product:
 
 {% include feature_row id="feature_howto" type="left" %}
 <!-- {% include feature_row_button id="feature_buttons" type="center"%} -->
-{% include feature_row id="feature_product" %}
+{% include feature_row id="feature_product" type="right" %}
 <!-- {% include feature_row id="feature_company" type="right" %} -->
 <!-- {% include client-slider.html id="feature_company" %} -->
