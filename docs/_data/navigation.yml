@@ -8,8 +8,8 @@ main:
     url: https://github.com/thya-aerospace/whoopsie/wiki
   - title: "github"
     url: https://github.com/thya-aerospace/whoopsie/
-  - title: "pip"
-    url: https://github.com/thya-aerospace/whoopsie/
+  - title: "pypip"
+    url: https://pypi.org/
   #- title: "Enterprise"
   #  url: /enterprise/
   # - title: "Login"
