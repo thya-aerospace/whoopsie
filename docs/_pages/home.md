@@ -19,10 +19,7 @@ feature_howto:
   - image_path: /assets/images/whoopsie_architecture.png
     alt: "Whoopsie architecture diagram"
     title: "Build and host your own service messaging infrastructure"
-    excerpt: '
-        <pre>echo "whoopsie"<br>echo "hi"</pre>
-        <pre>echo "whoopsie"</pre>
-        <pre>echo "whoopsie"</pre>'
+    excerpt: '<pre>echo "whoopsie"<br>echo "hi"<br>echo "whoopsie"</pre>'
     url: "https://github.com/thya-aerospace/whoopsie/wiki" #"#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
