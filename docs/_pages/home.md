@@ -19,9 +19,7 @@ feature_howto:
   - image_path: /assets/images/whoopsie_architecture.png
     alt: "Whoopsie architecture diagram"
     title: "Build and host your own service messaging infrastructure"
-    excerpt: '## Tiger
-          - this is 
-          - a markdown test'
+    excerpt: 'MIT licensed, Integrated serializers, MongoDB integration, Prometheus monitoring, Grafana GUI dashboard, TLS enabled, docker containered in case desired...'
     url: "#TBD"
     btn_label: "Getting Started"
     btn_class: "btn--primary"
