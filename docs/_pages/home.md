@@ -37,7 +37,7 @@ feature_howto:
 
 
 feature_product:
-  - image_path: assets/images/pdf_prtot_snipped.png
+  - image_path: assets/images/pdf_prtot_snipped.PNG
     image_caption: "Whoopsie Protocol"
     alt: "Whoopsie Protocol"
     title: "Whoopsie Protocol"
